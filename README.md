@@ -12,3 +12,4 @@ This project is a basic Java program that prints "Hello, World!" to the console.
 ## Dependencies
 - Java JDK 17+
 - NetBeans IDE
+![Screenshot](Screenshot 2025-02-10 195207)
